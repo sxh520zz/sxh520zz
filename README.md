@@ -48,11 +48,18 @@ My name is S**hi** X**iao**h**an**<!-- the bold part is the origin of my ID -->.
 ### :pencil: [Latest blog posts](https://sxh520zz.github.io/blog/)
 
 <!--START_SECTION:blog-posts-->
--   2024-10-20 [GeekGame 2024 Write-Up](https://ouuan.moe/post/2024/10/geekgame-2024?utm_source=GitHubProfile)
--   2024-10-15 [在 i3 中使用多显示器](https://ouuan.moe/post/2024/10/i3-multi-monitor?utm_source=GitHubProfile)
--   2024-08-18 [离群点](https://ouuan.moe/post/2024/07/outlier?utm_source=GitHubProfile)
--   2024-07-07 [DownUnderCTF 2024 Write-Up](https://ouuan.moe/post/2024/07/ductf-2024?utm_source=GitHubProfile)
--   2024-05-24 [解决使用 profile-sync-daemon 时 Firefox 开机启动报错](https://ouuan.moe/post/2024/05/psd-firefox-startup?utm_source=GitHubProfile)
+- Sep 2024: First author [paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:aqlVkmm33-oC) and two co-authored [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:qxL8FJ1GzNcC),[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:M3ejUd6NZC8C)] accepted at **APSIPA ASC 2024** (Macau, China). 
+- Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
+- Jun 2024: First author [paper](https://www.isca-archive.org/interspeech_2024/shi24i_interspeech.pdf) accepted at **INTERSPEECH 2024** (Kos, Greek). 
+- Dec 2023: Co-First author [paper](https://arxiv.org/abs/2401.13260) accepted at **ICASSP 2024** (Seoul, South Korea). 
+- Jul 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at **MRAC 2023** (Ottawa, Canada).
+- Jul 2023: Invited to be a reviewer of **APSIPA ASC 2023**.
+- Jun 2023: Started as a reviewer of **Speech Communication**.
+- Jun 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to **IEEE Transactions ASLP**.
+- May 2023: First author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at **INTERSPEECH 2023** (Dublin, Ireland).
+- Sep 2022: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
+- Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China).
+- Apr 2018: Started my master’s degree at Japan Advanced Institute of Science and Technology (Ishikawa, Japan).
 <!--END_SECTION:blog-posts-->
 
 ---
