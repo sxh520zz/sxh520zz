@@ -37,7 +37,4 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxh520zz&layout=compact&theme=tokyonight)
 
----
 
-### :bar_chart: [Visitor]
-![Visitor Count](https://profile-counter.glitch.me/你的Github用户名/count.svg)
