@@ -56,16 +56,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: [Language](https://github.com/muety/wakapi)
 
-<!--START_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxh520zz&layout=compact&theme=tokyonight)
 
-```txt
-Rust             19 hrs 41 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.97 %
-Markdown         15 hrs 16 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.38 %
-TeX              15 hrs 6 mins   🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.25 %
-Typst            14 hrs 27 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.72 %
-Python           13 hrs 10 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.68 %
-```
-
-<!--END_SECTION:waka-->
