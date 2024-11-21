@@ -35,13 +35,9 @@ My name is S**hi** X**iao**h**an**<!-- the bold part is the origin of my ID -->.
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=sxh520zz&show_icons=true">
 </picture>
 
--   :pencil2: Python / C++ / C++ /
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing Web security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
+
+From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
 ---
 
