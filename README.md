@@ -27,7 +27,8 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a senior undergraduate and incoming graduate student at Tsinghua University in China.
+My name is S**hi** X**iao**h**an**<!-- the bold part is the origin of my ID -->. I’m a third-year Ph.D. student in the School of Informatics at Nagoya University. My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=sxh520zz&theme=dark&show_icons=true">
