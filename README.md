@@ -45,7 +45,7 @@ My name is S**hi** X**iao**h**an**<!-- the bold part is the origin of my ID -->.
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+### :pencil: [Latest blog posts](https://sxh520zz.github.io/blog/)
 
 <!--START_SECTION:blog-posts-->
 -   2024-10-20 [GeekGame 2024 Write-Up](https://ouuan.moe/post/2024/10/geekgame-2024?utm_source=GitHubProfile)
