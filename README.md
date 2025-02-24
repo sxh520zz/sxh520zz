@@ -8,7 +8,7 @@ My name is S**hi** X**iao**h**an**. I’m a third-year Ph.D. student in the Scho
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=sxh520zz&show_icons=true">
 </picture>
 
-I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
+I am supervised by [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
 
 From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
