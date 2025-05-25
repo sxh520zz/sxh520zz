@@ -17,6 +17,7 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 ### :pencil: [Latest blog posts](https://sxh520zz.github.io/blog/)
 
 <!--START_SECTION:blog-posts-->
+- May 2025: Started as a reviewer of **IEEE Transactions ASLP**.
 - May 2025: Three first-author papers accepted at **INTERSPEECH 2025** (Rotterdam, Netherlands).
 - Sep 2024: First author [paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:aqlVkmm33-oC) and two co-authored [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:qxL8FJ1GzNcC),[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:M3ejUd6NZC8C)] accepted at **APSIPA ASC 2024** (Macau, China). 
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
