@@ -27,7 +27,7 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 - Jul 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at **MRAC 2023** (Ottawa, Canada).
 - Jul 2023: Invited to be a reviewer of **APSIPA ASC 2023**.
 - Jun 2023: Started as a reviewer of **Speech Communication**.
-- Jun 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to **IEEE Transactions ASLP**.
+- Jun 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
 - May 2023: First author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at **INTERSPEECH 2023** (Dublin, Ireland).
 - Sep 2022: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
 - Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China).
