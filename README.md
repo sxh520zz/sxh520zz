@@ -1,6 +1,6 @@
 
 
-My name is S**hi** X**iao**h**an**. I’m a third-year Ph.D. student in the School of Informatics at Nagoya University. My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
+My name is S**hi** X**iao**h**an**. I’m a last-year Ph.D. student in the School of Informatics at Nagoya University. My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
 
 
 <picture>
