@@ -18,19 +18,14 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 
 <!--START_SECTION:blog-posts-->
 - Jan 2026: First author paper accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
-- Dec 2025: Started as a reviewer of **IEEE Transactions on Affective Computing**.
 - Dec 2025: Co-authored paper accepted to **Ecological Informatics**.
 - Sep 2025: Co-authored paper accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
-- May 2025: Started as a reviewer of **Apsipa transactions on signal and information processing**.
-- May 2025: Started as a reviewer of **IEEE Transactions on Audio, Speech and Language Processing**.
 - May 2025: Three first-author papers accepted at **INTERSPEECH 2025** (Rotterdam, Netherlands).
 - Sep 2024: First author [paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:aqlVkmm33-oC) and two co-authored [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:qxL8FJ1GzNcC),[paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dJMayx0AAAAJ&sortby=pubdate&citation_for_view=dJMayx0AAAAJ:M3ejUd6NZC8C)] accepted at **APSIPA ASC 2024** (Macau, China). 
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: First author [paper](https://www.isca-archive.org/interspeech_2024/shi24i_interspeech.pdf) accepted at **INTERSPEECH 2024** (Kos, Greek). 
 - Dec 2023: Co-First author [paper](https://arxiv.org/abs/2401.13260) accepted at **ICASSP 2024** (Seoul, South Korea). 
 - Jul 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at **MRAC 2023** (Ottawa, Canada).
-- Jul 2023: Invited to be a reviewer of **APSIPA ASC 2023**.
-- Jun 2023: Started as a reviewer of **Speech Communication**.
 - Jun 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
 - May 2023: First author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at **INTERSPEECH 2023** (Dublin, Ireland).
 - Sep 2022: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
