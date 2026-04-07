@@ -17,6 +17,7 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 ### :pencil: [Latest blog posts](https://sxh520zz.github.io/blog/)
 
 <!--START_SECTION:blog-posts-->
+- Apr 2026: First author paper accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
 - Mar 2026: Co-authored paper accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
 - Jan 2026: First author paper accepted to **IEEE Transactions on Audio, Speech and Language Processing**.
 - Dec 2025: Co-authored paper accepted to **Ecological Informatics**.
